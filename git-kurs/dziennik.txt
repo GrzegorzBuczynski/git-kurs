@@ -1,3 +1,5 @@
+05.09.20222
+lekcja
 [Odcinek 1] Jak Kupić Oraz Skonfigurować Hosting I Domenę? 
 https://www.youtube.com/watch?v=lO09rfYsDjs&list=PLxv_3XVN6Gc0wtaCGf522Q0XyFxrC44Eq
 [Odcinek 2] Instalujemy Certyfikat SSL & HTTPS, Zabezpieczamy Pliki Hasłem
@@ -6,3 +8,6 @@ https://www.youtube.com/watch?v=2BBqXttspMw&list=PLxv_3XVN6Gc0wtaCGf522Q0XyFxrC4
 https://www.youtube.com/watch?v=aRndff4wbZg&list=PLxv_3XVN6Gc0wtaCGf522Q0XyFxrC44Eq&index=3
 Jak Wgrać Własną Czcionkę Na Stronę WWW?
 https://www.youtube.com/watch?v=6Za9sUttXOQ
+
+target
+zapozanć się z podstawami noSQL database np. mongoDB
