@@ -62,10 +62,16 @@ natomiast w przypadku niewystarczjących uprawnień server powinien zwracać 403
 W naszej kwesti leży jak zaprogramujemy serwer, jaką odpowiedz w postaci kodu bedzie zwracał.
 
 
-06.09.2022
+09.09.2022
+lekcja
+1. jak łączyc się z zewnętrznym api.  Python - jak łączyć się z zewnętrznym API? https://www.youtube.com/watch?v=Pa23kKiGHH8
+2. Python - podstawy w 2h https://www.youtube.com/watch?v=BBu6ZoAHIwI&list=PLp9WLfHXxbce6FEB9bk5sjdptTGI7ybOM
+
 target
-1. zapozanć się z podstawami noSQL database np. mongoDB
-2. napisać komunikator tekstowy
-3. napisać zdalny notatnik
-4. dowiedzieć się jak działa protokół http/ zapytania http
-5. format xml, struktura do czego służy, co to jest.
+1. napisać komunikator tekstowy
+2. napisać zdalny notatnik
+3. dowiedzieć się jak działa protokół http/ zapytania http
+4. format xml, struktura do czego służy, co to jest.
+5. jak postawić własny serwer restowy. Python - jak łączyć się z zewnętrznym API? https://www.youtube.com/watch?v=Pa23kKiGHH8
+6. Microsoft Excel Tutorial for Beginners - Full Course [!2h26min] https://www.youtube.com/watch?v=Vl0H-qTclOg
+
