@@ -1,0 +1,77 @@
+05.09.20222
+lekcja
+[Odcinek 1] Jak Kupić Oraz Skonfigurować Hosting I Domenę? 
+https://www.youtube.com/watch?v=lO09rfYsDjs&list=PLxv_3XVN6Gc0wtaCGf522Q0XyFxrC44Eq
+[Odcinek 2] Instalujemy Certyfikat SSL & HTTPS, Zabezpieczamy Pliki Hasłem
+https://www.youtube.com/watch?v=2BBqXttspMw&list=PLxv_3XVN6Gc0wtaCGf522Q0XyFxrC44Eq&index=2 
+[Odcinek 3] Tworzymy Profesjonalny Adres Mailowy!
+https://www.youtube.com/watch?v=aRndff4wbZg&list=PLxv_3XVN6Gc0wtaCGf522Q0XyFxrC44Eq&index=3
+Jak Wgrać Własną Czcionkę Na Stronę WWW?
+https://www.youtube.com/watch?v=6Za9sUttXOQ
+Bazy danych SQL vs. MongoDB
+https://www.youtube.com/watch?v=f2WWM3HaExU
+
+!Czym jest Web Service i REST API?
+https://www.youtube.com/watch?v=JkF-bKQUlSs&t=4s
+w skrócie rest api to stwoarzenie metod do komunikacji aplikacji z bazą danych 
+i wystawienie endpointów do komunikacji przez protokół http
+
+!ciekawostka tworzenie konstruktorów, getterów i setterów automatycznie
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+przed klasą wpisane są beens
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+
+w filmie trzy klasy dbclient, post i użytkownik
++konfiguracja bazydanych (klasa)
+pom z zależnościami
+http://localhost:8080/users
+zrobiłem git clone do lokalizacji repozytoria/jak nauczyc się programowania
+
+główne metody komunikacji http 
+get
+post
+put 
+delete
+
+json format praktyka
+{"username":"kamil88", "age":31, "name":"Kamil Brzezinski"}
+
+
+Lekcja Jak tworzyć REST API? 10 najważniejszych zasad. https://www.youtube.com/watch?v=lbX3Zs_AxFA
+zapytania do servera przez https
+query string
+/posts?user_id=7 zwraca posty użytkownika o id równym 7
+/users/7/posts  zwraca niewiadomo co
+
+/users?page=1&pafe_size=30 pobiera pierwszą listy użytkowników i ogranicza ją do 30 rokordów
+
+/users/activated  nie poprawnie,nie powinniśmy zagnieżdżać zwracanych danych
+/users?activated=true  poprawnie i czytelnie pytamy o userow zktórzy maja parametr activated=true
+przyjmij że na końcu zapytania http nie dodajemy slash / trzymaj sie jednej regóły
+
+autentykacja - logowanie
+autoryzacja - zalogowany ale czy ma uprawnienia?
+i tu psikus jesli nie jesteśmy zalogowani serwer zwraca 401 co znaczy unauthorized
+natomiast w przypadku niewystarczjących uprawnień server powinien zwracać 403 forbidden.
+W naszej kwesti leży jak zaprogramujemy serwer, jaką odpowiedz w postaci kodu bedzie zwracał.
+
+
+09.09.2022
+lekcja
+1. jak łączyc się z zewnętrznym api.  Python - jak łączyć się z zewnętrznym API? https://www.youtube.com/watch?v=Pa23kKiGHH8
+2. Python - podstawy w 2h https://www.youtube.com/watch?v=BBu6ZoAHIwI&list=PLp9WLfHXxbce6FEB9bk5sjdptTGI7ybOM
+
+target
+1. napisać komunikator tekstowy
+2. napisać zdalny notatnik
+3. dowiedzieć się jak działa protokół http/ zapytania http
+4. format xml, struktura do czego służy, co to jest.
+5. jak postawić własny serwer restowy. Python - jak łączyć się z zewnętrznym API? https://www.youtube.com/watch?v=Pa23kKiGHH8
+6. Microsoft Excel Tutorial for Beginners - Full Course [!2h26min] https://www.youtube.com/watch?v=Vl0H-qTclOg
+
