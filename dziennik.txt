@@ -79,7 +79,14 @@ JAVA HOME C:\Program Files\Eclipse Adoptium
 11.09.2022
 Chad Darby Course
 Inversion of control
-dependency injection 
+dependency injection from application context through constructor
+
+12.09.2022 
+object injection through setter
+
+13.09.2022 
+literal values injection through setter
+loading properties/values from properties file to spring config file .xml
 
 
 
