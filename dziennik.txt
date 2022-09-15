@@ -88,6 +88,16 @@ object injection through setter
 literal values injection through setter
 loading properties/values from properties file to spring config file .xml
 
+15.09.2022
+Beans scope:
+Default singelton - one instance for all requests
+scope="prototype" - one instance for each bean request
+
+bean lifecycle methods
+custom intialization:
+init-method="doMyStartupStuff"  <-- method name, the metod should be no=NoArgs
+destroy-method="doMyCleanUpStaff"> on prototype scope needed is custom code to run destroy method
+
 
 
 target
