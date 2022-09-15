@@ -104,8 +104,16 @@ target
 1. napisać komunikator tekstowy
 2. napisać zdalny notatnik
 3. dowiedzieć się jak działa protokół http/ zapytania http
-4. format xml, struktura do czego służy, co to jest.
+4. CS50 edx course
 5. jak postawić własny serwer restowy. Python - jak łączyć się z zewnętrznym API? https://www.youtube.com/watch?v=Pa23kKiGHH8
 6. Microsoft Excel Tutorial for Beginners - Full Course [!2h26min] https://www.youtube.com/watch?v=Vl0H-qTclOg
 7. (dokończyć) Python - podstawy w 2h https://www.youtube.com/watch?v=BBu6ZoAHIwI&list=PLp9WLfHXxbce6FEB9bk5sjdptTGI7ybOM
+8. IBM Course
+9. wszystko o nauce programowania w 1,5h
+10. 8 pomysłów na aplikacje 
+11. rest API
+12. portfolio młodszego programisty
+13. jak dzisiaj uczył bym się programowania
+14. komunikator
+15. Docker
 
