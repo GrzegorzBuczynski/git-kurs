@@ -98,6 +98,10 @@ custom intialization:
 init-method="doMyStartupStuff"  <-- method name, the metod should be no=NoArgs
 destroy-method="doMyCleanUpStaff"> on prototype scope needed is custom code to run destroy method
 
+16.09.2022
+
+Spring annotations
+
 
 
 target
