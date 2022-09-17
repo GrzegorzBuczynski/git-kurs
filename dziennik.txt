@@ -144,6 +144,11 @@ Field injection <-- just add annotation before field
 @Autowired
 private FortuneService fortuneService;
 
+for each component you can add annotation @Scope("prototype") to get new object for each initialization, default scpoe is "singelton"
+you can control also bean lifecycle by adding method to inside component: @PostConstruct and @PreDestroy. Important method should be no-agr.
+post and pre annotation don't work in java 9 and leter because javax.annotation-api-1.3.2.jar was removed from default classpath, you need to add this jar manualy to your lib/buildpath.
+
+
 
 
 
