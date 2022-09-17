@@ -81,6 +81,22 @@ Chad Darby Course
 Inversion of control
 dependency injection from application context through constructor
 
+        // read spring config file
+
+        ClassPathXmlApplicationContext context =
+                new ClassPathXmlApplicationContext("ApplicationContext.xml");
+
+        // get bean from spring container
+
+        Coach theCoach = context.getBean("tennisCoach", Coach.class);
+
+        // call a method on the bean
+
+        System.out.println(theCoach.getDailyWorkout());
+        // close the context
+
+        context.close();
+
 12.09.2022 
 object injection through setter
 
@@ -99,8 +115,35 @@ init-method="doMyStartupStuff"  <-- method name, the metod should be no=NoArgs
 destroy-method="doMyCleanUpStaff"> on prototype scope needed is custom code to run destroy method
 
 16.09.2022
+Spring annotations 
+<context:component-scan base-package="com.luv2code.springdemo" />
+@Component
 
-Spring annotations
+17.09.2022
+Spring configuration with Java Annotation - Dependency Injection
+@Autowired  --> spring scan for component that satisfy dependency (scan for class that match to given interface)
+@Qualifier("beanID") --> determines which implementation to use
+beanID - class name but lower case first letter
+
+Constructor injection
+    private FortuneService fortuneService;
+
+    @Autowired
+    public TennisCoach(FortuneService theFortuneService) {
+        fortuneService = theFortuneService;
+
+Setter injection
+    private FortuneService fortuneService;
+
+    @Autowired
+    public void setFortuneService(FortuneService fortuneService) {
+        this.fortuneService = fortuneService;
+
+Method injection <-- setter method can be repleced by any name. that's whole trick
+Field injection <-- just add annotation before field
+@Autowired
+private FortuneService fortuneService;
+
 
 
 
