@@ -191,12 +191,15 @@ public class ConfigSport {
     }
 }
 
+Bean as a wrapper to third-party class
+FAQ: What is a real-time use case for @Bean? https://www.udemy.com/course/spring-hibernate-tutorial/learn/lecture/22289332#overview
 
 
 
 
 
-target
+
+targets
 1. napisać komunikator tekstowy
 2. napisać zdalny notatnik
 3. dowiedzieć się jak działa protokół http/ zapytania http
