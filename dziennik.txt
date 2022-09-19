@@ -194,6 +194,68 @@ public class ConfigSport {
 Bean as a wrapper to third-party class
 FAQ: What is a real-time use case for @Bean? https://www.udemy.com/course/spring-hibernate-tutorial/learn/lecture/22289332#overview
 
+19.09.2022 #VsCode #CSS #HTML
+Emmet shortcuts https://www.udemy.com/course/pisz-szybszy-i-wydajniejszy-kod-html-i-css/learn/lecture/16665394#overview
+
+VsCode
+Ctrl+/ comment selected/line we are inside
+Shift+Alt+⬆/⬇  duplicate line
+Alt+⬇⬆  move line
+Shift + Ctrl + Alt ⬆/⬇ same as upper but insert without using mouse and that way quicker for greater number of lines
+left Alt + LMB this way you can insert cursor in a few places
+Ctrl + h find and replace tool -->option1 chenge for next -->option2 change for all
+Ctrl + D select next occurrence of selected text
+
+HTML 
+h1>ul>li*5+div  Shortcut to create objects in html
+h1>ul>li*5^^div Shortcut to create objects in html
+(h1>ul>li*5)div Shortcut to create objects in html
+.test creates div with class test
+#test creates div with id test
+p.test1.test2 creates paragraf with class test
+a[href=# target=_blank]*5 check what it create
+s{hello} creates tag a with text hello
+ul>li>{element nr $} creates list with numered elements
+ul>li>{element nr $@5} creates list with numered elements start numbering form digit 5
+lorem
+lorem5
+lorem*3
+p*3>lorem3
+imput:number
+input:pass 
+
+CSS
+m10 creates margin 10 px 
+m10-20
+p-10--20
+m10p
+fz20
+c#f
+bgc#123
+posa 
+posf 
+t0
+b20
+w100p
+h300 
+fs font style
+fz font size 
+fwb bolden text for much more see video https://www.udemy.com/course/pisz-szybszy-i-wydajniejszy-kod-html-i-css/learn/lecture/16665416#overview
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
 
 
 
