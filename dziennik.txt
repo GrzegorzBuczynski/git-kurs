@@ -195,7 +195,7 @@ Bean as a wrapper to third-party class
 FAQ: What is a real-time use case for @Bean? https://www.udemy.com/course/spring-hibernate-tutorial/learn/lecture/22289332#overview
 
 19.09.2022 #VsCode #CSS #HTML
-Emmet shortcuts https://www.udemy.com/course/pisz-szybszy-i-wydajniejszy-kod-html-i-css/learn/lecture/16665394#overview
+Emmet shortcuts https://www.udemy.com/course/pisz-szybszy-i-wydajniejszy-kod-html-i-css/learn/lecture/16665394#overview  and https://www.udemy.com/course/java-od-podstaw-do-eksperta-tworz-wasne-aplikacje/learn/lecture/7050856#overview
 
 VsCode
 Ctrl+/ comment selected/line we are inside
@@ -205,6 +205,15 @@ Shift + Ctrl + Alt ⬆/⬇ same as upper but insert without using mouse and that
 left Alt + LMB this way you can insert cursor in a few places
 Ctrl + h find and replace tool -->option1 chenge for next -->option2 change for all
 Ctrl + D select next occurrence of selected text
+Ctrl + backspace delete prefious word (wed)
+End / home jump to end / beginning of line
+Shift + end select to end of line
+Shift + home select to beginning of line
+Shift ⬇⬆ select whole line 
+Shift + Ctrl + ⬅/➡ select word to the left/right
+Ctrl + home jump to beginning of page
+Ctrl + Y undo undo
+Ctrl
 
 HTML 
 h1>ul>li*5+div  Shortcut to create objects in html
@@ -242,7 +251,8 @@ fs font style
 fz font size 
 fwb bolden text for much more see video https://www.udemy.com/course/pisz-szybszy-i-wydajniejszy-kod-html-i-css/learn/lecture/16665416#overview
 
-
+#swing https://www.udemy.com/course/java-od-podstaw-do-eksperta-tworz-wasne-aplikacje/learn/lecture/7051744#overview
+import jacax.swing.*;
 
 
  
@@ -252,16 +262,13 @@ fwb bolden text for much more see video https://www.udemy.com/course/pisz-szybsz
 
 
 
-
-
-
-
-
-
-
-
-
 targets
+1.  Java od Podstaw do Eksperta - twórz własne aplikacje (Java core, swing, android studio) https://www.udemy.com/course/java-od-podstaw-do-eksperta-tworz-wasne-aplikacje/
+1.1 wątki
+1.2 ramki
+1.3 paint
+1.4 method overload
+
 1. napisać komunikator tekstowy
 2. napisać zdalny notatnik
 3. dowiedzieć się jak działa protokół http/ zapytania http
