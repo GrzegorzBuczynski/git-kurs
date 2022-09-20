@@ -255,6 +255,15 @@ fwb bolden text for much more see video https://www.udemy.com/course/pisz-szybsz
 import jacax.swing.*;
 
 
+20.09.2022 #spring #property #MVC
+ to inject properties form sport.properties file you need to add @PropertySource("classpath:sport.properties") in config file
+ in class define filds and assign value over fild @Value("${foo.email}")
+ if you generate getters in class and their are not in interface you have to change in your app interface for class to be able to use it
+
+#MVC
+
+
+
  
 
 
