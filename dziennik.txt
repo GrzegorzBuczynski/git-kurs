@@ -260,7 +260,7 @@ import jacax.swing.*;
  in class define filds and assign value over fild @Value("${foo.email}")
  if you generate getters in class and their are not in interface you have to change in your app interface for class to be able to use it
 
-#MVC
+21.09.2022 #MVC
 
 
 
