@@ -262,6 +262,12 @@ import jacax.swing.*;
 
 21.09.2022 #MVC
 
+22.09.2022 #Bootstrap #html #CSS
+Grzegorz Buczyński portfolio started (repo in github)
+https://github.com/thecode-chic/Lynda-Single-Page-portfolio-website
+https://www.youtube.com/watch?v=ZkzI_qjXIkk <-- how to create
+https://www.youtube.com/watch?v=zhcjkjXWboE <-- how to host on github
+
 
 
  
