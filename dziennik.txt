@@ -268,7 +268,8 @@ https://github.com/thecode-chic/Lynda-Single-Page-portfolio-website
 https://www.youtube.com/watch?v=ZkzI_qjXIkk <-- how to create
 https://www.youtube.com/watch?v=zhcjkjXWboE <-- how to host on github
 
-
+23.09.2022 
+Portfolio work https://github.com/GrzegorzBuczynski/Portfolio.git
 
  
 
