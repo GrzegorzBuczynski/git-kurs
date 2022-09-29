@@ -271,6 +271,12 @@ https://www.youtube.com/watch?v=zhcjkjXWboE <-- how to host on github
 23.09.2022 
 Portfolio work https://github.com/GrzegorzBuczynski/Portfolio.git
 
+27.09.2022
+learning springboot basis
+
+28/29.09.2022
+springboot jpa data rest app
+
  
 
 
